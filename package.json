@@ -1,0 +1,18 @@
+{
+  "name": "passport_yandex",
+  "version": "1.0.0",
+  "description": "Demo Yandex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Aks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.16.1",
+    "passport": "^0.4.0",
+    "passport-vkontakte": "^0.5.0",
+    "passport-yandex": "0.0.3"
+  }
+}
